@@ -1,4 +1,6 @@
-berlin_shapes
+Berlin-Geodaten
 =============
 
-Shapes, GeoJSON, TopoJSON etc. von Berlin
+Hier werden Shapes, GeoJSON, TopoJSON, KML etc. von Berlin gesammelt.
+
+Vollständig vorhanden sind die Polygone der zwölf Berliner Bezirke
