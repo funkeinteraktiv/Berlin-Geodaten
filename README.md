@@ -1,6 +1,6 @@
 Berlin-Geodaten
 =============
 
-Hier werden Shapes, GeoJSON, TopoJSON, KML etc. von Berlin gesammelt.
+Redaktionen sollten nicht nur Daten nehmen, sondern auch geben. Im Sinne einer Daten-Chronistenpflicht veröffentlicht die Berliner Morgenpost auf diesem Github-Account unregelmäßig Berlin-Daten.
 
-Vollständig vorhanden sind die Polygone der zwölf Berliner Bezirke
+Hier werden Shapes, GeoJSON, TopoJSON, KML, SVG etc. von Berlin gesammelt. Vollständig vorhanden sind die Polygone der zwölf Berliner Bezirke
